@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978859121425",
+    "project_id": "wwf-notifications",
+    "storage_bucket": "wwf-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978859121425:android:a8323d2ef544959e028ab0",
+        "android_client_info": {
+          "package_name": "com.wwfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978859121425-6jkisrhvpomgmof4dmpqug9st4bob07q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_E6910HfAbaEb5c5hv6v4U9Iqh-d_IWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978859121425-6jkisrhvpomgmof4dmpqug9st4bob07q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
